@@ -1,0 +1,2 @@
+# Karl-Pearson-s-coefficient-of-correlation-and-Spearman-s-rank-correlation-on-excel
+Karl Pearson’s coefficient of correlation and Spearman’s rank correlation on excel with government dataset of different crops growth in different states of country India. area wise crops distribution is given in excel format on which we applied correlation formulas and founded corelation between two different crops.
